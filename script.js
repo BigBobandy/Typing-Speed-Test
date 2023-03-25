@@ -15,6 +15,7 @@ const sampleTexts = [
   "The quick brown fox jumps over the lazy dog.",
   "To be or not to be, that is the question.",
   "A journey of a thousand miles begins with a single step.",
+  "I'm not a gnelf I'm not a gnoblin I'm a gnome and you've been gnomed!",
 ];
 
 //Function to generate a random text from the sampleTexts array
